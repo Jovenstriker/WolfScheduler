@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>WolfScheduler</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>edu.umd.cs.findbugs.plugin.eclipse.findbugsBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>net.sf.eclipsecs.core.CheckstyleBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>edu.umd.cs.findbugs.plugin.eclipse.findbugsNature</nature>
+		<nature>net.sf.eclipsecs.core.CheckstyleNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>project-docs/CSC216-GP2-SystemTestPlan.pages</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Desktop/CSC216-GP2-SystemTestPlan.pages</locationURI>
+		</link>
+		<link>
+			<name>project-docs/CSC216_GP1_SystemTestPlan.pages</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Desktop/CSC216_GP1_SystemTestPlan.pages</locationURI>
+		</link>
+		<link>
+			<name>project-docs/CSC216_GP3_SystemTestPlan (1).pages</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Desktop/CSC216_GP3_SystemTestPlan%20(1).pages</locationURI>
+		</link>
+	</linkedResources>
+	<filteredResources>
+		<filter>
+			<id>1759879012372</id>
+			<name></name>
+			<type>30</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>node_modules|\.git|__CREATED_BY_JAVA_LANGUAGE_SERVER__</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
+</projectDescription>
